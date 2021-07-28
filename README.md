@@ -1,8 +1,8 @@
-Selecionar ações e fundos de investimentos observando multiplus dados agregados e on-line_Dashboard de Investimentos
+# Selecionar ações e fundos de investimentos observando multiplus dados agregados e on-line_Dashboard de Investimentos
 
 
-#### Aluno: [Cristiano Ribeiro e Ribeiro](https://github.com/ribeirocristiano/puc_rio_bimaster)
-#### Orientador(/a/es/as): [Anderson Nascimento]
+#### Aluno: [Cristiano Ribeiro e Ribeiro](https://github.com/ribeirocristiano).
+#### Orientador: [Anderson Nascimento](https://github.com/insightds).
 
 ---
 
